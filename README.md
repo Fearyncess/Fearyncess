@@ -1,16 +1,19 @@
-### Hi there 👋
+### Fearyncess
+_== Fearless+Princess_
 
-<!--
-**Fearyncess/Fearyncess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm:
+- Lain Yang
+- Chinese in China
+- Noob Programmer/Embedded Dev./DevOp
+- *Partial* Fullstack ;)
+- N3w-sk001
+- K.P.
+- Shemale
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Works:
+- Some dirty/OoT kernel ports/drivers
+- Grub for MIPS64 (Loongson's variant, specifically)
+- Rust for MIPSr6
+- OpenHarmony's LLVM
+- Some others about MIPS/ARM64
