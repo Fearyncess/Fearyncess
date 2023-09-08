@@ -11,7 +11,7 @@ _== Fearless+Princess_
 - Shemale
 
 
-#### Works:
+#### Works on:
 - Some dirty/OoT kernel ports/drivers
 - Grub for MIPS64 (Loongson's variant, specifically)
 - Rust for MIPSr6
