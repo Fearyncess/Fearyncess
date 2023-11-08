@@ -13,7 +13,5 @@ _== Fearless+Princess_
 
 #### Works on:
 - Some dirty/OoT kernel ports/drivers
-- Grub for MIPS64 (Loongson's variant, specifically)
-- Rust for MIPSr6
-- OpenHarmony's LLVM
+- OpenHarmony's LLVM (mipsel)
 - Some others about MIPS/ARM64
