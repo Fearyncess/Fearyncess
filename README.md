@@ -4,10 +4,7 @@ _== Fearless+Princess_
 #### I'm:
 - Lain Yang
 - Chinese in China
-- Noob Programmer/Embedded Dev./DevOp
 - *Partial* Fullstack ;)
-- N3w-sk001
-- K.P.
 - Shemale
 
 
