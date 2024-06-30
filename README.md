@@ -1,5 +1,4 @@
 ### Fearyncess
-_== Fearless+Princess_
 
 #### I'm:
 - Lain Yang
