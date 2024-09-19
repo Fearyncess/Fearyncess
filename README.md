@@ -8,6 +8,6 @@
 
 
 #### Works on:
+- Something about MIPS/Loongarch
 - Some dirty/OoT kernel ports/drivers
 - OpenHarmony's LLVM (mipsel)
-- Some others about MIPS/ARM64
