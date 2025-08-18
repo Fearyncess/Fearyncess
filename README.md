@@ -4,10 +4,12 @@
 - Lain Yang
 - Chinese in China
 - *Partial* Fullstack ;)
-- Shemale
+- Femboy
 
 
 #### Works on:
 - Something about MIPS/Loongarch
 - Some dirty/OoT kernel ports/drivers
-- OpenHarmony's LLVM (mipsel)
+- Some OpenHarmony compiler and board porting
+- Some Open Source Intelligence works
+- Some analysis and consulting
